@@ -1,0 +1,47 @@
+/*
+GLS_KM
+GLS_MGRP
+GLS_MCODE
+GLS_KM_VAL_INIT
+GLS_VOUCHER
+GLS_VCHITEM
+GLS_VCHGRP
+GLS_PERIOD
+GLS_YEAR
+GLS_STDVCH
+GLS_SVITEM
+GLS_EXPLAIN
+GLS_KMCLASS
+GLS_VCHITEM_SYS_CASH_FLOW
+GLS_CLOSEOFF
+GLS_KM_VAL
+GLS_KM_VAL_INIT_DETAIL
+GLS_LOG
+GLS_SVITEM_SYS_CASH_FLOW
+GLS_VCHITEM_TMP
+GLS_KM_VAL_DETAIL
+GLS_VOUCHER_LOG
+GLS_KM_VAL_SYS_CASH_FLOW
+GLS_KM_VAL_INIT_SYS_CASH_FLOW*/
+
+-- 查看系统表
+        SELECT table_name
+        FROM user_tables ;
+
+        SELECT table_name
+        FROM user_tables where table_name like  'GLS_KM%';
+
+
+-- 财务总账 核对，有色|百联24表，都存在
+SELECT table_name
+FROM user_tables
+where table_name in (
+                     'GLS_KM', 'GLS_MGRP', 'GLS_MCODE', 'GLS_KM_VAL_INIT', 'GLS_VOUCHER', 'GLS_VCHITEM', 'GLS_VCHGRP',
+                     'GLS_PERIOD', 'GLS_YEAR', 'GLS_STDVCH', 'GLS_SVITEM', 'GLS_EXPLAIN', 'GLS_KMCLASS',
+                     'GLS_VCHITEM_SYS_CASH_FLOW', 'GLS_CLOSEOFF', 'GLS_KM_VAL', 'GLS_KM_VAL_INIT_DETAIL', 'GLS_LOG',
+                     'GLS_SVITEM_SYS_CASH_FLOW', 'GLS_VCHITEM_TMP', 'GLS_KM_VAL_DETAIL', 'GLS_VOUCHER_LOG',
+                     'GLS_KM_VAL_SYS_CASH_FLOW', 'GLS_KM_VAL_INIT_SYS_CASH_FLOW'
+    );
+
+-- 可以查看系统表和视图
+select * from user_objects a where object_type in ('VIEW','TABLE') and OBJECT_NAME = 'SIS_TX_QUOTA_PD_CP';
