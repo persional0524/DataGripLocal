@@ -2,6 +2,35 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/N9A05-结算业务系统-dev.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_ODS_N9_PUB_公共数据/01_ODS_N9_PUB-STG_PUB_BANK.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/01_ODS_N9_PUB_公共数据/01_ODS_N9_PUB-STG_PUB_BANK.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/02_ODS_N9_CNAPS_银行主数据/01_ODS_N9_CNAPS-ODS_CNAPS.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/02_ODS_N9_CNAPS_银行主数据/02_ODS_N9_CNAPS-ODS_CNAPS_BANK.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/02_ODS_N9_CNAPS_银行主数据/03_ODS_N9_CNAPS-ODS_CNAPS_BANK_MAPPING.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/02_ODS_N9_CNAPS_银行主数据/04_ODS_N9_CNAPS-ODS_CNAPS_REGION.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/02_ODS_N9_CNAPS_银行主数据/05_ODS_N9_CNAPS-ODS_CNAPS_REGION_MAPPING.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/03_ODS_N9_GLS_科目总账/01_ODS_N9_GLS-会计年度-ODS_GLS_YEAR.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/03_ODS_N9_GLS_科目总账/02_ODS_N9_GLS-科目总账-科目_ODS_GLS_KM.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/03_ODS_N9_GLS_科目总账/03_ODS_N9_GLS-科目总账-年初科目余额.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/03_ODS_N9_GLS_科目总账/04_ODS_N9_GLS-科目总账-凭证项_ODS_GLS_VCHITEM.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/03_ODS_N9_GLS_科目总账/05_ODS_N9_GLS-科目总账-凭证_ODS_GLS_VOUCHER.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/01_ODS_N9_CLT-客户信息-STG_CLT_ARTIFAMI.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/02_ODS_N9_CLT-客户信息-STG_CLT_CLT_ACCOUNTS.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/03_ODS_N9_CLT-客户信息-STG_CLT_CLT_INFO.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/04_ODS_N9_CLT-客户信息-STG_CLT_CORRESSPONDENT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/05_ODS_N9_CLT-客户信息-STG_CLT_INVEST.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/06_ODS_N9_CLT-客户信息-STG_CLT_LAWSUIT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/07_ODS_N9_CLT-客户信息-STG_CLT_PARNER.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/08_ODS_N9_CLT-客户信息-STG_CLT_SP_EVENT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/09_ODS_N9_CLT-客户信息-STG_CLT_STKSHARE.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/10_ODS_N9_CLT-客户信息-STG_CLT_STOCK.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/11_ODS_N9_CLT-客户信息-行政区划表ODS_CLT_REGION.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/12_ODS_N9_CLT-客户信息-客户类型表ODS_CLT_CLT_TYPE.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/04_ODS_N9_CLT_客户信息/13_ODS_N9_CLT-客户信息-ODS_CLT_CONF_INFO.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/05_ODS_N9_CPM_结算业务/01_ODS_N9_CPM-结算业务-Start-STG_CPM_BOOK_UNIT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/05_ODS_N9_CPM_结算业务/02_ODS_N9_CPM-结算业务-Start-STG_CPM_SUBJECT_BASE.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/05_ODS_N9_CPM_结算业务/03_ODS_N9_CPM-结算业务-Start-STG_CPM_ACCOUNT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/05_ODS_N9_CPM_结算业务/04_ODS_N9_CPM-结算业务-Start-STG_CPM_CUSTOMER.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/odsN9/05_ODS_N9_CPM_结算业务/05_ODS_N9_CPM-结算业务-Start-STG_CPM_ACCOUNT_TYPE.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/Test/oracle基础查看.sql" dialect="Oracle" />
   </component>
 </project>
