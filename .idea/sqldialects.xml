@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/N9A05-结算业务系统-dev.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/N9A05-结算业务系统-dev.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/24_ODS_N9_CPM-结算业务-分析-CPM_SUBJECT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/25_ODS_N9_CPM-结算业务-分析-CNTLIST.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/26_ODS_N9_CPM-结算业务-分析-CNTBUSSSHEET.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/08_ODS_N9_FB_信贷合同/31_ODS_N9_FB_信贷合同-FB_CURRENCIES-视图.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/09_ODS_N9_IDS_存放同业/01_ODS_N9_IDS-存放同业-STG_IDS_ORDER.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/09_ODS_N9_IDS_存放同业/02_ODS_N9_IDS-存放同业-ODS_IDS_SB_UNIT_BOOK.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/09_ODS_N9_IDS_存放同业/03_ODS_N9_IDS-存放同业-ODS_IDS_BIZ_TYPE.sql" dialect="Oracle" />
@@ -18,6 +22,7 @@
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/12_ODS_N9_DBMS_票据业务/04_ODS_N9_DBMS-票据业务-STG_DBMS_MEMBERS.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/12_ODS_N9_DBMS_票据业务/05_ODS_N9_DBMS-票据业务-STG_DBMS_SURETY.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/12_ODS_N9_DBMS_票据业务/06_ODS_N9_DBMS-票据业务-STG_DBMS_WAREHOUSE.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/12_ODS_N9_DBMS_票据业务/07_ODS_N9_DBMS-票据业务-入仓分析-DBMS_WORKDAY.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/13_ODS_N9_BP3_银企接口/01_ODS_N9_BP3-银企接口-银行指令表ODS_BP3_BANK_ORDER.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/13_ODS_N9_BP3_银企接口/02_ODS_N9_BP3-银企接口-ODS_BP3_BANK.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/13_ODS_N9_BP3_银企接口/03_ODS_N9_BP3-银企接口-ODS_BP3_BANK_ACCOUNT_BALANCE.sql" dialect="Oracle" />
@@ -29,6 +34,9 @@
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/15_ODS_N9_CMS_现金管理/03_ODS_N9_CMS-现金管理-现金管理账户组表.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/15_ODS_N9_CMS_现金管理/04_ODS_N9_CMS-现金管理-系统参数表.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/16_ODS_N9_POMS_贷后管理/01_ODS_N9_POMS-贷后管理-ODS_POMS_AFTER_CHECK.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/02_DWD_N9/01_财务/01_DWD_N9_财务_会计年度.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/02_DWD_N9/01_财务/02_DWD_N9_财务_科目.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发票据/01_bgw_org_actor.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/Test/oracle基础查看.sql" dialect="Oracle" />
   </component>
 </project>

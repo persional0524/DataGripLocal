@@ -24,3 +24,8 @@ SELECT comp_id, comp_name, version, status FROM dba_registry;
 
         SELECT table_name
         FROM user_tables where table_name like  'CNAPS%';
+
+
+
+-- 列出所有模式（Schemas）
+SELECT username FROM dba_users ORDER BY username;
