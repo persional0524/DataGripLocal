@@ -15,6 +15,7 @@ SELECT CODENO,
 FROM CODES;
 
 -- ddl
+/*
 
 
 Data Source: N9测试环境1（开发环境）-柜面 Schema: YSKY_SMS Table: CODES  -- 通用编码
@@ -71,4 +72,6 @@ comment on column CODES.SYSLEVEL is '是否为系统级类别
 create index RELATIONSHIP_12
     on CODES (CODETYPENO)
 /
- Show table preview
+ Show table preview*/
+
+-- list 1
