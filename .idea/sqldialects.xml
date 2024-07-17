@@ -36,7 +36,16 @@
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/16_ODS_N9_POMS_贷后管理/01_ODS_N9_POMS-贷后管理-ODS_POMS_AFTER_CHECK.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/02_DWD_N9/01_财务/01_DWD_N9_财务_会计年度.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/02_DWD_N9/01_财务/02_DWD_N9_财务_科目.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/02_DWD_N9/01_财务/03_DWD_N9_财务_科目凭证表.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/02_DWD_N9/01_财务/04_DWD_N9_财务_年初科目余额.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/财务总账/GLS_KM.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发票据/01_bgw_org_actor.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/01_ods_gl_cltinfo/01_客户信息表.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/02_ODS_FB_YWHT/01_ODS_FB_YWHT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/监管集市数据探索整理/Dcab-ODS/财务信息/01-Dcab-ODS-财务信息-辅助核算项--ODS_GL_ASSIST.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/监管集市数据探索整理/Dcab-ODS/财务信息/02-Dcab-ODS-财务信息-科目表-ODS_GL_SUBJECT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/监管集市数据探索整理/Dcab-ODS/财务信息/03-Dcab-ODS-财务信息-每日科目余额-ODS_GL_KMYE_D.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/集市反推/RFBS-人行金数集市反推ODS/DM_RFBS_CLDWDK-存量单位贷款信息.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/Test/oracle基础查看.sql" dialect="Oracle" />
   </component>
 </project>
