@@ -91,9 +91,42 @@
     <data-source source="LOCAL" name="监管数舱测试环境-dcab_Dw" uuid="2bcd8c4f-3c16-4cef-9006-c9d5c2ca6aa9">
       <driver-ref>oracle.19</driver-ref>
       <synchronize>true</synchronize>
+      <remarks>监管数舱数据仓库数据库配置-ORAOUT</remarks>
       <auto-commit>false</auto-commit>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@10.63.8.31:1521:ysky</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="local-itx-19c" uuid="634c8f79-0dda-4d13-b0db-184c3ab2a04a">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:orcl</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="有色TChouse测试环境" uuid="1c3affd2-e0fe-4821-89aa-3171680ab5e0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.63.245.121:11345/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="监管数仓kettle-ORAIN" uuid="40bf9c31-ba54-465e-a459-abafb8128e1f">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>业务系统数据源配置</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@10.63.8.11:1521/ysky</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="监管数仓kettle-ORAIN_FSS" uuid="69beb6c1-e1a8-412e-855b-f6fae7149337">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@10.63.8.11:1521:YSKY</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

@@ -1,5 +1,5 @@
 -- 存量单位贷款信息_删除DM数据
-delete from DM_RFBS_CLDWDK a where a.report_id='${reportId}';
+--delete from DM_RFBS_CLDWDK a where a.report_id='${reportId}';
 
 -- 存量单位贷款信息_DW查询
 
@@ -169,4 +169,4 @@ where ywht.STATE not in (0, -1)--不要加上已结清的
 
 
 -- 存量单位贷款信息_DM插入
-DM_RFBS_CLDWDK
+-- DM_RFBS_CLDWDK

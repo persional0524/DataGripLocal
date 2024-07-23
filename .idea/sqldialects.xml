@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/tcHouse测试.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/N9A05-结算业务系统-dev.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/24_ODS_N9_CPM-结算业务-分析-CPM_SUBJECT.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/25_ODS_N9_CPM-结算业务-分析-CNTLIST.sql" dialect="Oracle" />
@@ -42,6 +43,12 @@
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发票据/01_bgw_org_actor.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/01_ods_gl_cltinfo/01_客户信息表.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/02_ODS_FB_YWHT/01_ODS_FB_YWHT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/03_view_探查/01_CNTLIST.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/03_view_探查/02_view_V_CPM_ACCOUNT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/03_view_探查/03_V_CPM_BKUNIT_SBUNIT.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/03_view_探查/04_V_CPM_TX_ATX.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/03_view_探查/05_V_CPM_TX_VTX.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/DOM-ODS/04_监管数仓来源dw层级梳理/01_AIMS_ASSOCIATEBANK.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/监管集市数据探索整理/Dcab-ODS/财务信息/01-Dcab-ODS-财务信息-辅助核算项--ODS_GL_ASSIST.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/监管集市数据探索整理/Dcab-ODS/财务信息/02-Dcab-ODS-财务信息-科目表-ODS_GL_SUBJECT.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/监管数仓env探索/监管集市数据探索整理/Dcab-ODS/财务信息/03-Dcab-ODS-财务信息-每日科目余额-ODS_GL_KMYE_D.sql" dialect="Oracle" />
