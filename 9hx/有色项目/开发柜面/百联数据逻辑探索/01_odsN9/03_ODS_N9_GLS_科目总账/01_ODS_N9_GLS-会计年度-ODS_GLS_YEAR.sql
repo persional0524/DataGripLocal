@@ -48,3 +48,7 @@ comment on column GLS_YEAR.TURNFLAG is '年度结转标记'
 
 
 -- 总结 核心列表中存在
+
+
+select count(1) from GLS_YEAR;
+select * from GLS_YEAR;

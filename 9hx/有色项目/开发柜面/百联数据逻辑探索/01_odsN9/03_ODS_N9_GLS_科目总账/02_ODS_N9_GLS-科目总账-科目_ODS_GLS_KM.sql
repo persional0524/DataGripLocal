@@ -25,6 +25,10 @@ SELECT YR,
 FROM GLS_KM
 where yr >= extract(year from date '${sdate}');
 
+-- 8570
+select count(1) from GLS_KM;
+select * from GLS_KM;
+
 -- ddl
 
 /*

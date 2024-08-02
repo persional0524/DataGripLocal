@@ -109,7 +109,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://10.63.245.121:11345/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://10.63.245.121:11345/ysdb</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="监管数仓kettle-ORAIN" uuid="40bf9c31-ba54-465e-a459-abafb8128e1f">

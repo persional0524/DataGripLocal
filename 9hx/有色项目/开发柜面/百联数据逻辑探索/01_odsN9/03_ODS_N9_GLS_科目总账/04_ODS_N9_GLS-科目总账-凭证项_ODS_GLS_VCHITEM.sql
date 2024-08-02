@@ -43,10 +43,10 @@ SELECT VIID,
        USER_DEF15,
        ASSISTDESC,
        ASSIST,
-       FINGERPRINT,
-       BRANCH_NO,
-       CUR_CODE,
-       VDATE
+       FINGERPRINT
+--        BRANCH_NO,
+--        CUR_CODE
+       -- VDATE
 FROM GLS_VCHITEM
 WHERE VDATE >= to_date('${sdate}', 'yyyy-MM-dd');
 
@@ -387,3 +387,6 @@ FROM GLS_VCHITEM;
 
 
 -- 列表中存在
+
+-- 635816 60w 不考虑建立分区表
+select count(1) from GLS_VCHITEM;

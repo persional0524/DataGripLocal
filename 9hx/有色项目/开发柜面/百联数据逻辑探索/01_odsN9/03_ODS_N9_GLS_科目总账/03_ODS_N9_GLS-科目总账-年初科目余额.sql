@@ -19,6 +19,8 @@ SELECT KVI_ID,
 FROM GLS_KM_VAL_INIT
 WHERE yr >= extract(year from date '${sdate}');
 
+-- 1951
+select count(1) from GLS_KM_VAL_INIT
 -- ddl
 
 /*

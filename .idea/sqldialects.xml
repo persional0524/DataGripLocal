@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/InitTables/ODS_GLS/01_ods_ysky_sms_gls_year.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/InitTables/ODS_GLS/03_ods_ysky_sms_gls_km_val_init.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/InitTables/ODS_GLS/04_ods_ysky_sms_gls_vchitem.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/InitTables/ODS_GLS/ods_ysky_sms_gls_km.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/InitTables/TOOLS/sp_akm_balance.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/tcHouse测试.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/TChouse/ystc_ods/TC_ODS_GLS_YEAR_DF.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/N9A05-结算业务系统-dev.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/01_ODS_N9_PUB_公共数据/01_ODS_N9_PUB-STG_PUB_BANK.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/03_ODS_N9_GLS_科目总账/01_ODS_N9_GLS-会计年度-ODS_GLS_YEAR.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/03_ODS_N9_GLS_科目总账/02_ODS_N9_GLS-科目总账-科目_ODS_GLS_KM.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/03_ODS_N9_GLS_科目总账/03_ODS_N9_GLS-科目总账-年初科目余额.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/03_ODS_N9_GLS_科目总账/04_ODS_N9_GLS-科目总账-凭证项_ODS_GLS_VCHITEM.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/24_ODS_N9_CPM-结算业务-分析-CPM_SUBJECT.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/25_ODS_N9_CPM-结算业务-分析-CNTLIST.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/9hx/有色项目/开发柜面/百联数据逻辑探索/01_odsN9/05_ODS_N9_CPM_结算业务/26_ODS_N9_CPM-结算业务-分析-CNTBUSSSHEET.sql" dialect="Oracle" />
